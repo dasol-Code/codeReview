@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c233cd07-fed5-4a22-a81a-5c118fbbe06d" name="Changes" comment="test1001_1" />
+    <list default="true" id="c233cd07-fed5-4a22-a81a-5c118fbbe06d" name="Changes" comment="master commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696088670326</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="master commit">
+      <option name="closed" value="true" />
+      <created>1698157175728</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1698157175728</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,7 +286,8 @@
     <MESSAGE value="test0923" />
     <MESSAGE value="test1001" />
     <MESSAGE value="test1001_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test1001_1" />
+    <MESSAGE value="master commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="master commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
